@@ -5,9 +5,8 @@ from https://ctkarch.org/documentation/tutorials/tuto.php?page=urxvt-transpa.xml
 
 #### you can configure:
 
-I asume bit depth:  
+
 `URxvt*depth: 32`  
-Background color:  
 `URxvt*background: rgba:"hex value red"/"hex value green"/"hex value blue"/"hexvalue tranparency"`
 
 #### Example:
