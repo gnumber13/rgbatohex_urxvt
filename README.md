@@ -33,6 +33,6 @@ Which results in:
 
   `rgba:2E2E/3434/4040/E665`
   
-In your .Xdefaults config file:
+Then put it in your .Xdefaults config file:
 
   `URxvt*background: rgba:2E2E/3434/4040/E665`
