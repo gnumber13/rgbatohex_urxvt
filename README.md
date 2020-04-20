@@ -3,12 +3,14 @@ A table of values for your URxvt config file using the rgba option wich enables 
 
 from https://ctkarch.org/documentation/tutorials/tuto.php?page=urxvt-transpa.xml
 
-you can configure 
+#### you can configure:
 
+I asume bit depth:
 `URxvt*depth: 32`
+Background color:
 `URxvt*background: rgba:"hex value red"/"hex value green"/"hex value blue"/"hexvalue tranparency"`
 
-Example:
+#### Example:
 
   CSS/HEX Color for a grey background(from the nord color palett): `#2E3440`
 
